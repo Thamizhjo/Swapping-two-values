@@ -30,7 +30,8 @@ y=temp
 print("Swapped values are:",x,y)
 ```
 ## OUTPUT:
-![swapping of two numbers](/!(image-1.png))![image](https://github.com/Thamizhjo/)
+![image](https://github.com/Thamizhjo/Swapping-two-values/assets/123891476/1e693ab9-0296-47f3-84d9-f3c1ae26bf39)
+
 
 
 
