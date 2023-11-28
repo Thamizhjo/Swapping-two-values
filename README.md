@@ -31,6 +31,8 @@ print("Swapped values are:",x,y)
 ```
 ## OUTPUT:
 ![swapping of two numbers](/!(image-1.png))
+![image]
+
 
 
 
